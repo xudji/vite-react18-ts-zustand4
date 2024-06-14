@@ -1,8 +1,8 @@
-# Vite5.0+Typescript+React18+Zustand 企业级前端后台项目
+# React18+Zustand+Vite+Typescrip 企业级前端后台项目
 
 一个企业级 React18 后端管理模板，旨在快速搭建后端管理系统包含基础功能不做过渡封装，快速扩展
 
-React18 + React-Router-Dom6 + Zustand4 + TypeScript5 + Vite5 + Antd5
+React18 + React-Router-Dom6 + Zustand4 + TypeScript5 + Vite + Antd5
 
 各分支说明：
 
@@ -21,7 +21,7 @@ React18 + React-Router-Dom6 + Zustand4 + TypeScript5 + Vite5 + Antd5
 - react18
 - react-router6
 - zustand4
-- vite4
+- vite
 - axios
 - fakerjs、
 - dayjs ......
